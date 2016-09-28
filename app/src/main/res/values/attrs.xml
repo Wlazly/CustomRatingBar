@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomRatingBar">
+        <attr name="startNum" format="integer"/>
+        <attr name="fillNum" format="integer"/>
+        <attr name="isClickable" format="boolean"/>
+        <attr name="fillDrawable" format="reference"/>
+        <attr name="emptyDrawable" format="reference"/>
+    </declare-styleable>
+
+</resources>
